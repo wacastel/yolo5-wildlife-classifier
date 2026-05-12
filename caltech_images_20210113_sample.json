@@ -1,0 +1,64 @@
+{
+ "images": [
+  {
+   "seq_num_frames": 1,
+   "date_captured": "2013-10-04 13:31:53",
+   "seq_id": "6f2160eb-5567-11e8-990e-dca9047ef277",
+   "height": 1494,
+   "width": 2048,
+   "location": "26",
+   "rights_holder": "Erin Boydston",
+   "file_name": "5968c0f9-23d2-11e8-a6a3-ec086b02610b.jpg",
+   "id": "5968c0f9-23d2-11e8-a6a3-ec086b02610b",
+   "frame_num": 1
+  },
+  {
+   "seq_num_frames": 1,
+   "date_captured": "2013-11-04 18:37:07",
+   "seq_id": "6f27ed66-5567-11e8-9e92-dca9047ef277",
+   "height": 1494,
+   "width": 2048,
+   "location": "26",
+   "rights_holder": "Erin Boydston",
+   "file_name": "5a0b016f-23d2-11e8-a6a3-ec086b02610b.jpg",
+   "id": "5a0b016f-23d2-11e8-a6a3-ec086b02610b",
+   "frame_num": 1
+  },
+  {
+   "seq_num_frames": 3,
+   "date_captured": "2012-05-09 07:33:45",
+   "seq_id": "6f04895c-5567-11e8-a3d6-dca9047ef277",
+   "height": 1494,
+   "width": 2048,
+   "location": "38",
+   "rights_holder": "Justin Brown",
+   "file_name": "59b93afb-23d2-11e8-a6a3-ec086b02610b.jpg",
+   "id": "59b93afb-23d2-11e8-a6a3-ec086b02610b",
+   "frame_num": 2
+  },
+  {
+   "seq_num_frames": 3,
+   "date_captured": "2012-03-29 02:34:13",
+   "seq_id": "6f0385b5-5567-11e8-a80b-dca9047ef277",
+   "height": 1494,
+   "width": 2048,
+   "location": "38",
+   "rights_holder": "Justin Brown",
+   "file_name": "59641f56-23d2-11e8-a6a3-ec086b02610b.jpg",
+   "id": "59641f56-23d2-11e8-a6a3-ec086b02610b",
+   "frame_num": 2
+  },
+  {
+   "seq_num_frames": 3,
+   "date_captured": "2012-05-08 19:23:36",
+   "seq_id": "6f0a3ccf-5567-11e8-92fb-dca9047ef277",
+   "height": 1494,
+   "width": 2048,
+   "location": "33",
+   "rights_holder": "Justin Brown",
+   "file_name": "5a1e5306-23d2-11e8-a6a3-ec086b02610b.jpg",
+   "id": "5a1e5306-23d2-11e8-a6a3-ec086b02610b",
+   "frame_num": 2
+  },
+ ]
+}
